@@ -45,6 +45,7 @@ TOOLS USED
 
 
 SCREENSHOTS OF THE PROJECT
+Creating new account:-
 ![ ](1.jpeg)
 
 ![ ](2.jpeg)
