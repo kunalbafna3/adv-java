@@ -39,81 +39,9 @@ The software is a set of procedures of coded information or a program which when
 1. Operating System:- Windows NT / 2000 / XP
 2. Application Software:- Application software uses front end visual basic and database access etc.
 
-INTRODUCTION TO FRONT END TOOL
-Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
-Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
-HTML elements are the building blocks of HTML pages. With HTML constructs, images and other objects such as interactive forms may be embedded into the rendered page. HTML provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. HTML elements are delineated by tags, written using angle brackets. Tags such as <img /> and <input /> directly introduce content into the page. Other tags such as <p> surround and provide information about document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.
-HTML can embed programs written in a scripting language such as JavaScript, which affects the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), former maintainer of the HTML and current maintainer of the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997. 
-
-HTML markup consists of several key components, including those called tags (and their attributes), character-based data types, character references and entity references. HTML tags most commonly come in pairs like <h1> and </h1>, although some represent empty elements and so are unpaired, for example <img>. The first tag in such a pair is the start tag, and the second is the end tag (they are also called opening tags and closing tags).
-Another important component is the HTML document type declaration, which triggers standards mode rendering.
-The following is an example of the classic "Hello, World!" program:
-<!DOCTYPE html>
- <html>
- <head>
- <title>This is a title</title>
- </head>
- <body>
-<p>Hello world!</p>
-</body>
-</html>
-The text between <html> and </html> describes the web page, and the text between <body> and </body> is the visible page content. The markup text <title>This is a title</title> defines the browser page title.
-The Document Type Declaration <!DOCTYPE html> is for HTML5. If a declaration is not included, various browsers will revert to "quirks mode" for rendering. 
-Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. 
-CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content.
-Separation of formatting and content also makes it feasible to present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices. 
-
-INTRODUCTION TO BACK END TOOL
-Introduction to SQL: -
-SQL is a standard computer language for accessing and manipulating databases.
-•         SQL stands for Structured Query Language.
-•         SQL allows you to access a database.
-•         SQL is an ANSI standard computer language.
-•         SQL can execute queries against a database.
-•         SQL can retrieve data from a database.
-•         SQL can insert new records in a database.
-•         SQL can delete records from a database.
-•         SQL can update records in a database.
-•         SQL is easy to learn.
- SQL is an ANSI (American National Standards Institute) standard computer language for accessing and manipulating database systems. SQL statements are used to retrieve and update data in a database. SQL works with database programs like MS Access, DB2, Informix, MS SQL Server, Oracle, Sybase, etc.
-
-Unfortunately, there are many different versions of the SQL language, but to be in compliance with the ANSI standard; they must support the same major keywords in a similar manner (such as SELECT, UPDATE, DELETE, INSERT, WHERE, and others).
- SQL DATABASE TABLES: -
-A database most often contains one or more tables. Each table is identified by a name (e.g. "Customers" or "Orders"). Tables contain records (rows) with data.
-Below is an example of a table called "Persons": -
-Last Name	First Name	Address	City
-Hansen	Ola	Timoteivn 10	Sandnes
-Svendson	Tove	Borgvn 23	Sandnes
-Pettersen	Kari	Storgt 20	Stavanger
-
-The table above contains three records (one for each person) and four columns (Last Name, First Name, Address, and City).
- 
-SQL QUERIES: -
-With SQL, we can query a database and have a result set returned.
-A query like this: -
-SELECT Last Name FROM Persons
-Gives a result set like this: -
-Last Name
-Hansen
-Svendson
-Petersen
-SQL Data Manipulation Language (DML)
-
-SQL (Structured Query Language) is syntax for executing queries. But the SQL language also includes syntax to update, insert, and delete records.
-These query and update commands together form the Data Manipulation Language (DML) part of SQL: -
-SELECT - extracts data from a database table
-UPDATE - updates data in a database table
-DELETE - deletes data from a database table
-INSERT INTO - inserts new data into a database table
- 
-SQL DATA DEFINITION LANGUAGE (DDL)
-The Data Definition Language (DDL) part of SQL permits database tables to be created or deleted. We can also define indexes (keys), specify links between tables, and impose constraints between database tables.
-The most important DDL statements in SQL are: - 
-	CREATE TABLE - creates a new database table
-	ALTER TABLE - alters (changes) a database table
-	DROP TABLE - deletes a database table
-	CREATE INDEX - creates an index (search key)
-	DROP INDEX - deletes an index MS SQL SERVER 2000
+TOOLS USED
+html, css , bootstrap for frontend
+jsp , sql for backend
 
 SCREENSHOTS OF THE PROJECT
 https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
