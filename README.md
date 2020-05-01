@@ -118,58 +118,9 @@ The most important DDL statements in SQL are: -
 	CREATE INDEX - creates an index (search key)
 	DROP INDEX - deletes an index MS SQL SERVER 2000
 
-OBJECT DIAGRAM
-Object is an instance of a particular moment in runtime, including objects and data values. A static UML object diagram is an instance of a class diagram; it shows a snapshot of the detailed state of a system at a point in time, thus an object diagram encompasses objects and their relationships at a point in time. It may be considered a special case of a class diagram or a communication diagram.
-The use of object diagrams is fairly limited, mainly to show examples of data structures.
-•	During the analysis phase of a project, you might create a class diagram to describe the structure of a system and then create a set of object diagrams as test cases to verify the accuracy and completeness of the class diagram.
-•	Before you create a class diagram, you might create an object diagram to discover facts about specific model elements and their links, or to illustrate specific examples of the classifiers that are required.
-
-Below is the object diagram of online banking system:
- https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
-
-CLASS DIAGRAM
-In software engineering, a class diagram in the Unified Modeling Language (UML) is a type of static structure diagram that describes the structure of a system by showing the system's classes, their attributes, operations (or methods), and the relationships among objects.
-Shows static structure of classifiers in a system
-Diagram provides a basic notation for other structure diagrams prescribed by UML
-Helpful for developers and other team members too
-Business Analysts can use class diagrams to model systems from a business perspective
-
-Below is the class diagram :
+SCREENSHOTS OF THE PROJECT
 https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
- 
-COLLABORATION DIAGRAM
-Collaboration diagrams are used to show how objects interact to perform the behavior of a particular use case, or a part of a use case. Along with sequence diagrams, collaboration are used by designers to define and clarify the roles of the objects that perform a particular flow of events of a use case.  They are the primary source of information used to determining class responsibilities and interfaces.
-A Collaboration is a collection of named objects and actors with links connecting them. They collaborate in performing some task.
-A Collaboration defines a set of participants and relationships that are meaningful for a given set of purposes
-A Collaboration between objects working together provides emergent desirable functionalities in Object-Oriented systems
-Each object (responsibility) partially supports emergent functionalities
-Objects are able to produce (usable) high-level functionalities by working together
-Objects collaborate by communicating (passing messages) with one another in order to work together
-Below is the diagram:
- https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
-
-SEQUENCE DIAGRAM
-Sequence Diagrams are interaction diagrams that detail how operations are carried out. They capture the interaction between objects in the context of a collaboration. Sequence Diagrams are time focus and they show the order of the interaction visually by using the vertical axis of the diagram to represent time what messages are sent and when.
-Sequence Diagrams captures:
-the interaction that takes place in a collaboration that either realizes a use case or an operation (instance diagrams or generic diagrams)
-high-level interactions between user of the system and the system, between the system and other systems, or between subsystems 
-
-Below is the sequence diagram:
- https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
-
-DATAFLOW DIAGRAM
-Also known as DFD, Data flow diagrams are used to graphically represent the flow of data in a business information system. DFD describes the processes that are involved in a system to transfer data from the input to the file storage and reports generation.Data flow diagrams can be divided into logical and physical. The logical data flow diagram describes flow of data through a system to perform certain functionality of a business. The physical data flow diagram describes the implementation of the logical data flow.
-
-Below is the dataflow diagram:
- https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
-
-UML DIAGRAM
-A UML diagram is a diagram based on the UML (Unified Modeling Language) with the purpose of visually representing a system along with its main actors, roles, actions, artifacts or classes, in order to better understand, alter, maintain, or document information about the system.
- https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
- 
-SCREENSHOTS
 https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
-           https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
 https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
 https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
 https://github.com/kunalbafna3/adv-java/commit/5f10db5f7640ea92947bbcd8b0daa34f9826b005
