@@ -1,4 +1,6 @@
 # adv-java
+It was a task given as a college curriculum. I worked on Front-End Development. I was in early stages of my learning. So I cloned the design and made changes accordingly.
+
 ONLINE BANKING PROJECT REPORT
 
 INTRODUCTION
@@ -21,7 +23,6 @@ Current Account
 Fixed Deposit Account
 Recurring Deposit Account
 Loan Account
- 
 
 
 SYSYTEM REQUIREMENTS
@@ -45,9 +46,7 @@ TOOLS USED
 
 
 SCREENSHOTS OF THE PROJECT
-Creating new account:-
 ![ ](1.jpeg)
-
 ![ ](2.jpeg)
 ![ ](3.jpeg)
 ![ ](4.jpeg)
