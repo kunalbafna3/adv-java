@@ -1,5 +1,5 @@
-# adv-java
-It was a task given as a college curriculum. I worked on Front-End Development. I was in early stages of my learning. So I cloned the design and made changes accordingly.
+# Front_End_Clone
+# It was a task given as a college curriculum. I worked on Front-End Development. I was in early stages of my learning. So I cloned the design and made changes accordingly.
 
 ONLINE BANKING PROJECT REPORT
 
